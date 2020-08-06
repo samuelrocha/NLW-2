@@ -1,0 +1,27 @@
+{
+  "name": "NLW-2",
+  "version": "1.0.0",
+  "description": "<img src=\"images/favicon.png\" alt=\"Proffy\">",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelrocha/NLW-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelrocha/NLW-2/issues"
+  },
+  "homepage": "https://github.com/samuelrocha/NLW-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
