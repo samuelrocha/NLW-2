@@ -1,8 +1,5 @@
 # Next Level Week #
 
-<img src="images/favicon.png" alt="Proffy">
-
-
 Projeto web criado durante a segunda NLW, realizado pela rocketseat.
 
 1 - Possui uma página index.html que permite o usuario navegar dentro site, podendo leva-lo para a study.html e give-classes.html
